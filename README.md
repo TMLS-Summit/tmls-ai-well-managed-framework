@@ -1,10 +1,10 @@
-# TMLS Well-Architected Framework
+# TMLS AI Well-Managed Framework
 
 > A vendor-neutral standard for evaluating modern digital and AI systems
 
 ## Overview
 
-The **TMLS Well-Architected Framework** provides a clear, defensible reference point for organizations deploying AI, cloud, and digital systems. It empowers boards and executives to evaluate whether systems are safe, compliant, resilient, and worth scaling.
+The **TMLS AI Well-Managed Framework** provides a clear, defensible reference point for organizations deploying AI, cloud, and digital systems. It empowers boards and executives to evaluate whether systems are safe, compliant, resilient, and worth scaling.
 
 ### The Core Question
 
@@ -98,4 +98,4 @@ For questions, feedback, or collaboration opportunities, please [open an issue](
 
 ---
 
-**The TMLS Well-Architected Framework**: Building the future of technology governance.
+**The TMLS AI Well-Managed Framework**: Building the future of technology governance.

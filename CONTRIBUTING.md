@@ -1,6 +1,6 @@
-# Contributing to TMLS Well-Architected Framework
+# Contributing to TMLS AI Well-Managed Framework
 
-Thank you for your interest in contributing to the TMLS Well-Architected Framework! This framework is designed to be a vendor-neutral, community-driven standard for evaluating modern digital and AI systems.
+Thank you for your interest in contributing to the TMLS AI Well-Managed Framework! This framework is designed to be a vendor-neutral, community-driven standard for evaluating modern digital and AI systems.
 
 ## How to Contribute
 
@@ -34,28 +34,31 @@ We welcome the following types of contributions:
 
 ## Contribution Process
 
-### 1. Fork and Clone
+### 1. Request Access
+- Share your GitHub ID with the TMLS team to be added as a contributor.
+
+### 2. Pick Your Pillar
+- Each pillar has a dedicated folder in the repository.
+
+### 3. Branch
+- Create a branch named `pillar/[pillar-name]/[your-handle]`
 ```bash
-git fork https://github.com/tmls/tmls-ai-well-managed-framework
-git clone your-fork-url
-cd tmls-ai-well-managed-framework
+git checkout -b pillar/[pillar-name]/[your-handle]
 ```
 
-### 2. Create a Branch
-```bash
-git checkout -b feature/your-contribution-name
-```
+### 4. Make Your Contribution
+- Guidance, best practice, case study, or assessment criterion.
+- Follow the template in each pillar's `CONTRIBUTING.md` (if applicable) and the existing structure.
+- Ensure your content is vendor-neutral and accessible to non-technical executives.
 
-### 3. Make Your Changes
-- Follow the existing structure and format
-- Ensure your content is vendor-neutral
-- Keep language clear and accessible to non-technical executives
-- Add examples where helpful
+### 5. Submit a Pull Request
+- Open a pull request against `master` with a clear description of what you're adding and why.
+- Keep PRs focused — one idea per PR is better than one large PR.
+- Your PR is your public record of contribution.
 
-### 4. Submit a Pull Request
-- Provide a clear description of your changes
-- Reference any related issues
-- Explain the rationale behind your contribution
+### 6. Review Cycle
+- The Pillar Lead will review and may request changes. 
+- PRs don't need to be perfect initially. The goal is to get expertise into the repo and iterate.
 
 ## Content Guidelines
 
