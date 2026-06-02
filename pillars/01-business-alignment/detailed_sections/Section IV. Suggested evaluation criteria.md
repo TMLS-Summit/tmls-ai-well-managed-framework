@@ -4,7 +4,7 @@
 
 ### Step 1: Establish Company-Wide Vision
 - % of AI initiatives mapped to top-level business objectives
-- # of business units actively contributing to AI roadmap (top-down + bottom-up participation rate)
+- No. of business units actively contributing to AI roadmap (top-down + bottom-up participation rate)
 - Idea-to-pilot conversion rate (submitted ideas → approved use cases)
 - Cross-functional engagement index (e.g., attendance in AI workshops / hackathons)
 - Strategic alignment score (exec assessment of AI portfolio fit vs company priorities)
@@ -36,7 +36,7 @@
 - % of critical business domains mapped to data assets
 - Data maturity score by domain (current vs target gap)
 - Stakeholder alignment score (survey-based consensus on data vision)
-- # of documented data gaps blocking AI use cases
+- No. of documented data gaps blocking AI use cases
 - Roadmap completion rate (planned vs defined data initiatives)
 
 ### Step 2: Data Assessment
