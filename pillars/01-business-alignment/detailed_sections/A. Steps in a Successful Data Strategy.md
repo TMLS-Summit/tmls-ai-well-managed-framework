@@ -20,7 +20,7 @@ Organizations must carefully evaluate and prioritize AI use cases based on busin
 
 - **Actionability & Feasibility Assessment:** Analyze required usability/accuracy, ease of adoption/integration, speed to value, technical fit, data readiness/trustworthiness, and risk tolerance. **Feasibility** focuses on whether the solution *can* technically and operationally be implemented. **Actionability** focuses on whether the solution *can realistically be adopted and used effectively* to drive decisions or outcomes.
 
-![Value generated (bubble size) plotted for actionability vs feasibility](supporting_pics/Fig.1_Value generated (bubble size) plotted for actionability vs feasibility.jpg)
+![Value generated (bubble size) plotted for actionability vs feasibility](supporting_pics/Fig1_Value_generated_bubble_chart.jpg)
 
 ## Step 3: Defining AI ethics and governance
 
