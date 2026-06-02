@@ -47,3 +47,10 @@ AI initiatives should include clear measurement frameworks from the design stage
 - **Operational Metrics:** Measure whether AI features deliver downstream returns, such as improved processes.
 
 - **Business Impact Metrics:** Provide visibility into strategic financial goals (increasing revenue, reducing costs, mitigating risk, or accelerating innovation).
+
+## References (AI Strategy)
+
+1.	Microsoft: https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ai/strategy
+2.	Aisoma AG: https://www.aisoma.de/6-pillars-of-a-successful-ai-strategy/
+3.	Google Cloud: https://cloud.google.com/transform/how-to-build-an-effective-ai-strategy
+4.	OnStrategy: https://onstrategyhq.com/resources/ai-strategy/
