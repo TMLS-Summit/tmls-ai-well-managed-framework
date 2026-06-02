@@ -43,7 +43,7 @@
 - Data quality score (completeness, accuracy, consistency, timeliness)
 - % of datasets meeting readiness threshold for AI use cases
 - Data accessibility score (API availability, latency, permissions)
-- # of critical data issues identified per domain
+- No. of critical data issues identified per domain
 - Bias / representativeness risk score per dataset
 
 ### Step 3: Data Collection, ETL & Management
