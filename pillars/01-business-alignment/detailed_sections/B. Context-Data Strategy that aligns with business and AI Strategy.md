@@ -1,3 +1,7 @@
+Author: Navita Singh
+
+First Draft: 2 June 2026
+
 # Context: Data Strategy that aligns with business and AI strategy
 
 Before any AI initiative can succeed, the organization must develop a clear understanding of its current data state and its desired future state. This foundational step aligns data discovery with the top-down and bottom-up engagement model of the AI strategy, ensuring both leadership and front-line teams contribute to shaping the data vision.
@@ -67,3 +71,5 @@ Technology and process alone are insufficient to realize the value of data and A
 **Key Activities**: A tiered data literacy program is delivered across the organization, supported by Data Champion networks embedded in business units. Data-driven behaviours are reinforced through recognition systems, while self-service access is enabled via governed BI tools and data marketplaces. Adoption is tracked through surveys and continuous communication of progress and success stories.
 
 **Outcomes**: A strong, organization-wide data culture is established where data-driven decision-making is standard practice. Empowered Data Champions accelerate adoption and surface new opportunities across teams. Increased self-service usage reduces dependency on central teams and improves the speed of AI and analytics delivery.
+
+**Disclaimer:** *Anything mentioned in this article reflects my personal opinion, not any of my current or former employers. This research has been done using publicly available tutorials, press releases, and datasets.*

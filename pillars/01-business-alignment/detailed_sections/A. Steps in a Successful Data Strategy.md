@@ -1,4 +1,5 @@
 Author: Navita Singh
+
 First Draft: 2 June 2026
 
 # Context: Steps in a Successful AI Strategy
@@ -58,5 +59,4 @@ AI initiatives should include clear measurement frameworks from the design stage
 3.	Google Cloud: https://cloud.google.com/transform/how-to-build-an-effective-ai-strategy
 4.	OnStrategy: https://onstrategyhq.com/resources/ai-strategy/
 
-**Disclaimer**: Anything mentioned in this article reflects my personal opinion, not any of my current or former employers.
-This research has been done using publicly available tutorials, press releases and datasets.
+**Disclaimer:** *Anything mentioned in this article reflects my personal opinion, not any of my current or former employers. This research has been done using publicly available tutorials, press releases, and datasets.*

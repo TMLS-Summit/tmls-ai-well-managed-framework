@@ -1,3 +1,7 @@
+Author: Navita Singh
+
+First Draft: 2 June 2026
+
 # Section IV. Suggested evaluation criteria
 
 ## AI Strategy: Metrics by Step
@@ -80,3 +84,5 @@
 - Data-driven decision adoption rate (survey + behavioral tracking)
 - Number of active Data Champions per business unit
 - Reduction in central data team dependency (tickets per user / BU)
+
+**Disclaimer:** *Anything mentioned in this article reflects my personal opinion, not any of my current or former employers. This research has been done using publicly available tutorials, press releases, and datasets.*

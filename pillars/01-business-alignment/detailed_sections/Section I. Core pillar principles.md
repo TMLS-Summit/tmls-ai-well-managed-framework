@@ -19,3 +19,4 @@
 - Total cost of ownership includes maintenance, evolution, and decommission
 - Sunsetting criteria should be defined at inception
 - Systems should not outlive their business justification
+
